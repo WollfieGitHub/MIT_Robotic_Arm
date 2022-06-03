@@ -5,7 +5,7 @@ Repository for the Making Intelligent Things Project's Documentation
 
 1. [Robotic Arm and Car Assembly](#1-arm-and-car-assembly)
    1. [3D Prints' Files](#i-3d-printed-files-resources)
-   2. [Mounting Instructions](#ii-mounting-instructions)
+   2. [Assembly Instructions](#ii-assembly-instructions)
 2. [Arm Controlling Applications](#2-arms-controls-application)
    1. [Shopping Application](#i-shopping-application)
    2. [ESP32 CAM Code](#ii-esp32-cam-code)
@@ -16,20 +16,25 @@ Repository for the Making Intelligent Things Project's Documentation
 
 ### i. 3D Printed Files Resources
 
-### ii. Mounting Instructions
+You can find all the printable .stl files used in the project in this [folder](/printable_stls) in this 
+repository.
+
+### ii. Assembly Instructions
+
+Detailed assembly instructions can be found [here](/assembly_instructions) in this repository.
 
 ## 2. Arm's Controls Application
 
 ### i. Shopping Application
 
 A GitHub Repository for the Shopping Application's code and documentation can be found 
-[here](https://github.com/Zephyr75/bobby_shopping)
+[here](https://github.com/Zephyr75/bobby_shopping).
 
 ### ii. ESP32 CAM Code
 ESP32-Cam documentation:
 
 A GitHub Repository for the ESP32CAM's Code and Documentation can be found
-[here](https://github.com/Aco-Hub/ESP32-Cam-Shopping)
+[here](https://github.com/Aco-Hub/ESP32-Cam-Shopping).
 
 The ESP32-CAM has 3 main functions:
 
@@ -57,10 +62,10 @@ to store them on the arduino and communicate the animation frame per frame.
 
 ### iii. Arduino Code
 
-The documented Arduino Code can be found [here](/arduino_code/arduino_final_program.ino)
+The documented Arduino Code can be found [here](/arduino_code/arduino_final_program.ino).
 in this repository
 
 ### iv. Manual Arm Control Application
 
 A GitHub Repository for the Arm Control Application and Documentation can be found
-[here](https://github.com/WollfieGitHub/SerialArmCommunication)
+[here](https://github.com/WollfieGitHub/SerialArmCommunication).
