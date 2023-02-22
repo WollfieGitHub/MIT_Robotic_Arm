@@ -1,7 +1,9 @@
 # MIT_Robotic_Arm
 Repository for the Making Intelligent Things Project's Documentation
 
-<video src='./demo_arm.mp4' width=480/>
+<div>
+   <video src="./demo_arm.mp4" width=480/>
+</div>Update with demo video
 
 ## Summary
 
