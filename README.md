@@ -2,8 +2,8 @@
 Repository for the Making Intelligent Things Project's Documentation
 
 <div>
-   <video src="./demo_arm.mp4" width=480/>
-</div>Update with demo video
+   
+</div>
 
 ## Summary
 
