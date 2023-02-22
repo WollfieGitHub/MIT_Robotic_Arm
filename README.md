@@ -1,9 +1,7 @@
 # MIT_Robotic_Arm
 Repository for the Making Intelligent Things Project's Documentation
 
-<div>
-   [![Demo Video](https://img.youtube.com/vi/Dp5YYpMMnTg/0.jpg)](https://www.youtube.com/watch?v=Dp5YYpMMnTg)
-</div>
+[![Demo Video](https://img.youtube.com/vi/Dp5YYpMMnTg/0.jpg)](https://www.youtube.com/watch?v=Dp5YYpMMnTg)
 
 ## Summary
 
