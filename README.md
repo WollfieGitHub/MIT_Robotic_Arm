@@ -2,7 +2,7 @@
 Repository for the Making Intelligent Things Project's Documentation
 
 <div>
-   
+   [![Demo Video](https://img.youtube.com/vi/shorts/Dp5YYpMMnTg/0.jpg)](https://www.youtube.com/shorts/Dp5YYpMMnTg)
 </div>
 
 ## Summary
