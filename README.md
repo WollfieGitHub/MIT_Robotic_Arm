@@ -1,6 +1,8 @@
 # MIT_Robotic_Arm
 Repository for the Making Intelligent Things Project's Documentation
 
+<video src='./demo_arm.mp4' width=480/>
+
 ## Summary
 
 1. [Robotic Arm and Car Assembly](#1-arm-and-car-assembly)
