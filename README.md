@@ -2,6 +2,7 @@
 Repository for the Making Intelligent Things Project's Documentation
 
 [![Demo Video](https://img.youtube.com/vi/Dp5YYpMMnTg/0.jpg)](https://www.youtube.com/watch?v=Dp5YYpMMnTg)
+[Demo Video](https://www.youtube.com/watch?v=Dp5YYpMMnTg)
 
 ## Summary
 
